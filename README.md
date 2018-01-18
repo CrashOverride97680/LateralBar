@@ -1,1 +1,1 @@
-# LaterlalBar
+# LateralBar
